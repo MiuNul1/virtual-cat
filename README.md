@@ -1,5 +1,7 @@
 # virtual-cat
 a white cute cat living in lab of SUSTech, meow~
+<img width="112" alt="image" src="https://github.com/MiuNul1/virtual-cat/assets/119723303/3ab339af-ca09-42e9-bafe-8fd53a3a741a">
+
 ## Installation
 ### Step 1
 Download cat_model.zip
