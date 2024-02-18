@@ -1,7 +1,10 @@
 # virtual-cat
-a white cute cat living in lab of SUSTech, meow~
+A white cute cat living in lab of SUSTech, meow~
 <img width="112" alt="image" src="https://github.com/MiuNul1/virtual-cat/assets/119723303/3ab339af-ca09-42e9-bafe-8fd53a3a741a">
 
+This is a live2d virtual pet which can be deployed on your desktop
+
+Make the cat accompanying you when working with your pc!
 ## Installation
 ### Step 1
 Download cat_model.zip
@@ -11,6 +14,7 @@ Download cat_launcher.zip
 * 提取码：4efz
 ### Step 3
 Extract the two zip archives and place cat_model in the root of cat_launcher
+
 The downloaded files shall be organized as the following hierarchy:
 ~~~
 ├── root
