@@ -10,8 +10,8 @@ Make the cat accompanying you when working with your pc!
 Download cat_model.zip
 ### Step 2
 Download Live2DViewerEX.zip
-* 链接：https://pan.baidu.com/s/1HzWZeDfBZy9K9E-OMI6qcw?pwd=4efz 
-* 提取码：4efz
+* 链接：https://pan.baidu.com/s/1js5G45_kuo3vXV593jzA1g?pwd=a2fs 
+* 提取码：a2fs
 ### Step 3
 Extract the two zip archives and place cat_model in the root of Live2DViewerEX
 
