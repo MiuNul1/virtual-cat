@@ -9,11 +9,11 @@ Make the cat accompanying you when working with your pc!
 ### Step 1
 Download cat_model.zip
 ### Step 2
-Download cat_launcher.zip
+Download Live2DViewerEX.zip
 * 链接：https://pan.baidu.com/s/1HzWZeDfBZy9K9E-OMI6qcw?pwd=4efz 
 * 提取码：4efz
 ### Step 3
-Extract the two zip archives and place cat_model in the root of cat_launcher
+Extract the two zip archives and place cat_model in the root of Live2DViewerEX
 
 The downloaded files shall be organized as the following hierarchy:
 ~~~
@@ -23,6 +23,7 @@ The downloaded files shall be organized as the following hierarchy:
 │   │   ├── 笨蛋猫猫.cdi3.json
 │   │   ├── 笨蛋猫猫.moc3
 │   │   ├── 笨蛋猫猫.model3.json
+│   │   ├── Scene1.motion3.json
 │   ├──launcher.exe
 │   ├──......
 ~~~
