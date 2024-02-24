@@ -15,6 +15,8 @@ Download Live2DViewerEX.zip
 ### Step 3😸
 Extract the two zip archives and place cat_model in the root of Live2DViewerEX
 
+Make sure your root folder name is: Live2DViewerEX, and is plcaed in D drive. Otherwise, the model may not work.
+
 The downloaded files shall be organized as the following hierarchy:
 ~~~
 ├── root
