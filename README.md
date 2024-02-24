@@ -1,5 +1,5 @@
 # virtual-cat
-A white cute cat living in lab of SUSTech, meow~
+A white cute cat living in a lab of SUSTech, meow~
 <img width="112" alt="image" src="https://github.com/MiuNul1/virtual-cat/assets/119723303/3ab339af-ca09-42e9-bafe-8fd53a3a741a">
 
 This is a live2d virtual pet which can be deployed on your desktop
@@ -10,8 +10,8 @@ Make the cat accompanying you when working with your pc!
 Download cat_model.zip
 ### Step 2
 Download Live2DViewerEX.zip
-* 链接：https://pan.baidu.com/s/1js5G45_kuo3vXV593jzA1g?pwd=a2fs 
-* 提取码：a2fs
+* 链接：https://pan.baidu.com/s/1NgKTBJPxHswqbIwCjFrCVg?pwd=xd8j 
+* 提取码：xd8j
 ### Step 3
 Extract the two zip archives and place cat_model in the root of Live2DViewerEX
 
@@ -30,3 +30,6 @@ The downloaded files shall be organized as the following hierarchy:
 
 ### Step 4
 start by launcher.exe
+
+## 写在最后
+谨以此项目，献给我的好友，祝她20岁生日快乐
