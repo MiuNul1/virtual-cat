@@ -46,6 +46,6 @@ https://github.com/MiuNul1/virtual-cat/assets/119723303/4b8a7eae-0bff-456e-811c-
 
 
 
-谨以此项目，献给我的好友，祝她20岁生日快乐
+谨以此项目，献给我的好友，祝你20岁生日快乐
 
 
